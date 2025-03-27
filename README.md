@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 兴趣的话是游玩一些经典游戏，网络游戏，偶尔学习绘画。
 
-编程技术方面我比较擅长于Java后端开发，使用Springboot技术进行开发，并了解的基本开发流程和开发规范。
-
 
 ## 其他个人博客的链接
 
